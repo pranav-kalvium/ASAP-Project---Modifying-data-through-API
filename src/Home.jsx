@@ -32,9 +32,9 @@ export default function App() {
 
       {/* Hero Section */}
       <div className="hero">
-        <h1>Welcome to Pranav's Landing Page</h1>
+        <h1>Welcome to Pranav's Landing Page..</h1>
         <p>Your journey into creativity starts here.</p>
-        <button>Get Started</button>
+        <button>Get Started !!!...</button>
       </div>
     </div>
   );
